@@ -1,0 +1,38 @@
+{"name":"Prendete posto e iniziate la festa!","children":
+
+[{name:"Watson e Crick","children":
+[{name:"Zia Stefania", "size": 3938},{name:"Zio Riccardo", "size": 3938},{name:"Zia Esa", "size": 3938},{name:"Zio Orlando", "size": 3938},{name:"Matteo", "size": 3938},{name:"Simona", "size": 3938},{name:"Pietro", "size": 3938},{name:"Ginetta", "size": 3938},{name:"Orcar", "size": 3938}]},
+
+{name:"Comte e Durkheim","children":
+[{name:"Zia Daniela",17010},{name:"Roberta",5842},{name:"Mattia"},{name:"Camilla",1041},{name:"Tommaso",5176},{name:"Filippo",449},{name:"Zio Marco",5593},{name:"Luisa",5534}]},
+
+{name:"Babbage e Lovelace","children":
+[{name:"Mamma Ornella"},{name:"Papà Enrico",1759},{name:"Paola",2165},{name:"Stefano",586},{name:"Filippo",3331},{name:"Lorenzo",772},{name:"Alessandro",3322},{name:"Eleonora",3322}]},
+
+{name:"Wirth e Van Rossum","children":
+[{name:"Giorgio P.",8833},{name:"Elisabetta Z.",1732},{name:"Francesca",3623},{name:"Ezio",10066},{name:"Aurora",10066},{name:"Matilde",10066},{name:"Laura",10066},{name:"Tiberio",10066}]},
+
+[{name:"Pierre e Marie Curie","children":
+[{name:"Mamma Giovanna"},{name:"Papà Maurizio"},{name:"Daniela C."},{name:"Paolo F."},{name:"Zio Dino"},{name:"Zia Rosa"},{name:"Roberto"},{name:"Antonella"},{name:"Dino"},{name:"Giusy"}]},
+
+[{name:"De Saussure e Chomsky","children":
+[{name:"Lucia"},{name:"Salvatore"},{name:"Ivonne"},{name:"Giuseppe"},{name:"Antonietta"},{name:"Leo"},{name:"Nuccia"}]},
+
+[{name:"Le Cun e Bengio","children":
+[{name:"Betta"},{name:"Luca(Faina)"},{name:"Silvia F."},{name:"Edo"},{name:"Ricky"},{name:"One"},{name:"Anna"},{name:"Alice"}]},
+
+[{name:"Norman e Shallice","children":
+[{name:"Luca B."},{name:"Paola Q."},{name:"Andrea B."},{name:"Efrem"},{name:"Alessia"},{name:"Andrea(Meno)"},{name:"Alice"},{name:"Darietto"},{name:"Gloria"}]},
+
+[{name:"Berners Lee e Cailliau","children":
+[{name:"Sayaka"},{name:"Shintaro"},{name:"Fabrizio(Beta)"},{name:"Chiara"},{name:"Alessandro(Sotu)"},{name:"Albe"},{name:"Fernanda"},{name:"Enrico(Monzo)"}]},
+
+[{name:"Kerninghan e Ritchie","children":
+[{name:"Enrico B."},{name:"Elisa B."},{name:"Faby"},{name:"Sante"},{name:"Michela M."},{name:"Nicole"},{name:"Figlio M."},{name:"Vale"},{name:"Isa"},{name:"Antonio"}]},
+
+[{name:"Shannon e Weaver","children":
+[{name:"Dadinne"},{name:"J"},{name:"Giorgio C."},{name:"Andrea T."},{name:"Andre"},{name:"Silviett"},{name:"Damianino"},{name:"Alice"}]},
+
+[{name:"Turing e Clarke","children":
+[{name:"Lorenzo C."},{name:"Takako"},{name:"Gufo"},{name:"Michela G."},{name:"Martino"},{name:"Nico"},{name:"Luca(Cailu)"},{name:"Vera"}]}
+};

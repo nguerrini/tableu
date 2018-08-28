@@ -1,0 +1,44 @@
+{
+ "name": "Tavoli",
+ "children": [
+  {"name": "Watson e Crick", "size": 3,
+   "children": [{"name": "Zia Stefania","size": 3, "children": []},{"name": "Zio Riccardo","size": 3,"children": []},{"name": "Zia Esa","size": 3,"children": []},{"name": "Zio Orlando","size": 3,"children": []},{"name": "Matteo","size": 3,"children": []},{"name": "Simona","size": 3,"children": []},{"name": "Pietro","size": 3,"children": []},{"name": "Ginetta","size": 3,"children": []},{"name": "Oscar","size": 3,"children": []}]},
+  
+  {"name": "Comte e Durkheim", "size": 3,
+  "children": [{"name": "Zia Daniela","size": 3, "children": []},{"name": "Roberta","size": 3,"children": []},{"name": "Mattia","size": 3,"children": []},{"name": "Camilla","size": 3,"children": []},{"name": "Tommaso","size": 3,"children": []},{"name": "Filippo","size": 3,"children": []},{"name": "Zio Marco","size": 3,"children": []},{"name": "Luisa","size": 3,"children": []}]},
+  
+  {"name": "Babbage e Lovelace", "size": 3,
+  "children": [{"name": "Mamma Ornella","size": 3,"children": []},{"name": "Papà Enrico","size": 3,"children": []},{"name": "Paola","size": 3,"children": []},{"name": "Stefano","size": 3,"children": []},{"name": "Lorenzo","size": 3,"children": []},{"name": "Filippo","size": 3,"children": []},{"name": "Alessandro Q.","size": 3,"children": []},{"name": "Eleonora","size": 3,"children": []}]},
+
+  {"name": "Wirth e Van Rossum", "size": 3,
+   "children": [{"name": "Giorgio P.","size": 3,"children": []},{"name": "Elisabetta Z.","size": 3,"children": []},{"name": "Francesca","size": 3,"children": []},{"name": "Ezio","size": 3,"children": []},{"name": "Aurora","size": 3,"children": []},{"name": "Matilde","size": 3,"children": []},{"name": "Laura","size": 3,"children": []},{"name": "Tiberio","size": 3,"children": []}]},
+ 
+  {"name": "Pierre e Marie Curie", "size": 3,
+  "children": [{"name": "Mamma Giovanna","size": 3,"children": []},{"name": "Papà Maurizio","size": 3,"children": []},{"name": "Paolo F.","size": 3,"children": []},{"name": "Daniela C.","size": 3,"children": []},{"name": "Zio Dino","size": 3,"children": []},{"name": "Zia Rosa","size": 3,"children": []},{"name": "Giusy","size": 3,"children": []},{"name": "Dino","size": 3,"children": []},{"name": "Roberto","size": 3,"children": []},{"name": "Antonella","size": 3,"children": []}]},
+  
+  {"name": "De Saussure e Chomsky", "size": 3,
+"children": [{"name": "Lucia","size": 3,"children": []},{"name": "Salvatore","size": 3,"children": []},{"name": "Ivonne","size": 3,"children": []},{"name": "Giuseppe","size": 3,"children": []},{"name": "Antonietta","size": 3,"children": []},{"name": "Leo","size": 3,"children": []},{"name": "Nuccia","size": 3,"children": []}]},
+
+{"name": "Le Cun e Bengio", "size": 3,
+"children": [{"name": "Betta","size": 3,"children": []},{"name": "Luca (Faina)","size": 3,"children": []},{"name": "Silvia","size": 3,"children": []},{"name": "Edo","size": 3,"children": []},{"name": "One","size": 3,"children": []},{"name": "Anna","size": 3,"children": []},{"name": "Ricky B.","size": 3,"children": []},{"name": "Alice B.","size": 3,"children": []}]},
+
+{"name": "Norman e Shallice", "size": 3,
+"children": [{"name": "Luca B","size": 3,"children": []},{"name": "Andrea B.","size": 3,"children": []},{"name": "Paola Q.","size": 3,"children": []},{"name": "Efrem","size": 3,"children": []},{"name": "Alessia","size": 3,"children": []},{"name": "Andrea (Meno)","size": 3,"children": []},{"name": "Alice","size": 3,"children": []},{"name": "Gloria","size": 3,"children": []},{"name": "Darietto","size": 3,"children": []}]},
+
+{"name": "Berners Lee e Cailliau", "size": 3,
+"children": [{"name": "Sayaka","size": 3,"children": []},{"name": "Shintaro","size": 3,"children": []},{"name": "Fabrizio (Beta)","size": 3,"children": []},{"name": "Chiara","size": 3,"children": []},{"name": "Alessandro (Sotu)","size": 3,"children": []},{"name": "Albe (Dungus)","size": 3,"children": []},{"name": "Fernanda","size": 3,"children": []},{"name": "Enrico (Monzo)","size": 3,"children": []}]},
+
+{"name": "Kerninghan e Ritchie", "size": 3,
+"children": [{"name": "Enrico B.","size": 3,"children": []},{"name": "Elisa B.","size": 3,"children": []},{"name": "Faby","size": 3,"children": []},{"name": "Santino","size": 3,"children": []},{"name": "Michela","size": 3,"children": []},{"name": "Nicole M.","size": 3,"children": []},{"name": "Figlio M.","size": 3,"children": []},{"name": "Isa","size": 3,"children": []},{"name": "Antonio","size": 3,"children": []},{"name": "Vale","size": 3,"children": []}]},
+
+{"name": "Shannon e Weaver", "size": 3,
+"children": [{"name": "Dadinne","size": 3,"children": []},{"name": "J","size": 3,"children": []},{"name": "Silviett","size": 3,"children": []},{"name": "Andre","size": 3,"children": []},{"name": "Damianino","size": 3,"children": []},{"name": "Alice T.","size": 3,"children": []},{"name": "Giorgio C.","size": 3,"children": []},{"name": "Andrea T.","size": 3,"children": []}]},
+
+{"name": "Turing e Clarke", "size": 3,
+"children": [{"name": "Lorenzo","size": 3,"children": []},{"name": "Takako","size": 3,"children": []},{"name": "Daniele (Gufo)","size": 3,"children": []},{"name": "Michela G.","size": 3,"children": []},{"name": "Martino","size": 3,"children": []},{"name": "Nico","size": 3,"children": []},{"name": "Luca (cailu)","size": 3,"children": []},{"name": "Vera","size": 3,"children": []}]},
+
+{"name": "Linnaeus e Darwin", "size": 3,
+"children": [{"name": "Pietro B.","size": 3,"children": []},{"name": "Elisa B.","size": 3,"children": []},{"name": "Melissa B.","size": 3,"children": []},{"name": "Nicole B.","size": 3,"children": []},{"name": "Giulia","size": 3,"children": []},{"name": "Paolo C.","size": 3,"children": []},{"name": "Alberto","size": 3,"children": []},{"name": "Sara","size": 3,"children": []}]}
+
+ ]
+}

@@ -1,0 +1,371 @@
+Object {
+  name: "flare"
+  children: 
+    
+  Array(10) [
+  0: 
+    
+  Object {
+  name: "analytics"
+  children: 
+    
+  Array(3) [
+  0: 
+    
+  Object {name: "cluster", children: Array(4)}
+  1: 
+    
+  Object {name: "graph", children: Array(5)}
+  2: 
+    
+  Object {name: "optimization", children: Array(1)}
+]
+}
+  1: 
+    
+  Object {
+  name: "animate"
+  children: 
+    
+  Array(12) [
+  0: 
+    
+  Object {name: "Easing", size: 17010}
+  1: 
+    
+  Object {name: "FunctionSequence", size: 5842}
+  2: 
+    
+  Object {name: "interpolate", children: Array(9)}
+  3: 
+    
+  Object {name: "ISchedulable", size: 1041}
+  4: 
+    
+  Object {name: "Parallel", size: 5176}
+  5: 
+    
+  Object {name: "Pause", size: 449}
+  6: 
+    
+  Object {name: "Scheduler", size: 5593}
+  7: 
+    
+  Object {name: "Sequence", size: 5534}
+  8: 
+    
+  Object {name: "Transition", size: 9201}
+  9: 
+    
+  Object {name: "Transitioner", size: 19975}
+  10: 
+    
+  Object {name: "TransitionEvent", size: 1116}
+  11: 
+    
+  Object {name: "Tween", size: 6006}
+]
+}
+  2: 
+    
+  Object {
+  name: "data"
+  children: 
+    
+  Array(7) [
+  0: 
+    
+  Object {name: "converters", children: Array(5)}
+  1: 
+    
+  Object {name: "DataField", size: 1759}
+  2: 
+    
+  Object {name: "DataSchema", size: 2165}
+  3: 
+    
+  Object {name: "DataSet", size: 586}
+  4: 
+    
+  Object {name: "DataSource", size: 3331}
+  5: 
+    
+  Object {name: "DataTable", size: 772}
+  6: 
+    
+  Object {name: "DataUtil", size: 3322}
+]
+}
+  3: 
+    
+  Object {
+  name: "display"
+  children: 
+    
+  Array(4) [
+  0: 
+    
+  Object {name: "DirtySprite", size: 8833}
+  1: 
+    
+  Object {name: "LineSprite", size: 1732}
+  2: 
+    
+  Object {name: "RectSprite", size: 3623}
+  3: 
+    
+  Object {name: "TextSprite", size: 10066}
+]
+}
+  4: 
+    
+  Object {
+  name: "flex"
+  children: 
+    
+  Array(1) [
+  0: 
+    
+  Object {name: "FlareVis", size: 4116}
+]
+}
+  5: 
+    
+  Object {
+  name: "physics"
+  children: 
+    
+  Array(8) [
+  0: 
+    
+  Object {name: "DragForce", size: 1082}
+  1: 
+    
+  Object {name: "GravityForce", size: 1336}
+  2: 
+    
+  Object {name: "IForce", size: 319}
+  3: 
+    
+  Object {name: "NBodyForce", size: 10498}
+  4: 
+    
+  Object {name: "Particle", size: 2822}
+  5: 
+    
+  Object {name: "Simulation", size: 9983}
+  6: 
+    
+  Object {name: "Spring", size: 2213}
+  7: 
+    
+  Object {name: "SpringForce", size: 1681}
+]
+}
+  6: 
+    
+  Object {
+  name: "query"
+  children: 
+    
+  Array(29) [
+  0: 
+    
+  Object {name: "AggregateExpression", size: 1616}
+  1: 
+    
+  Object {name: "And", size: 1027}
+  2: 
+    
+  Object {name: "Arithmetic", size: 3891}
+  3: 
+    
+  Object {name: "Average", size: 891}
+  4: 
+    
+  Object {name: "BinaryExpression", size: 2893}
+  5: 
+    
+  Object {name: "Comparison", size: 5103}
+  6: 
+    
+  Object {name: "CompositeExpression", size: 3677}
+  7: 
+    
+  Object {name: "Count", size: 781}
+  8: 
+    
+  Object {name: "DateUtil", size: 4141}
+  9: 
+    
+  Object {name: "Distinct", size: 933}
+  10: 
+    
+  Object {name: "Expression", size: 5130}
+  11: 
+    
+  Object {name: "ExpressionIterator", size: 3617}
+  12: 
+    
+  Object {name: "Fn", size: 3240}
+  13: 
+    
+  Object {name: "If", size: 2732}
+  14: 
+    
+  Object {name: "IsA", size: 2039}
+  15: 
+    
+  Object {name: "Literal", size: 1214}
+  16: 
+    
+  Object {name: "Match", size: 3748}
+  17: 
+    
+  Object {name: "Maximum", size: 843}
+  18: 
+    
+  Object {name: "methods", children: Array(32)}
+  19: 
+    
+  Object {name: "Minimum", size: 843}
+  … more
+]
+}
+  7: 
+    
+  Object {
+  name: "scale"
+  children: 
+    
+  Array(10) [
+  0: 
+    
+  Object {name: "IScaleMap", size: 2105}
+  1: 
+    
+  Object {name: "LinearScale", size: 1316}
+  2: 
+    
+  Object {name: "LogScale", size: 3151}
+  3: 
+    
+  Object {name: "OrdinalScale", size: 3770}
+  4: 
+    
+  Object {name: "QuantileScale", size: 2435}
+  5: 
+    
+  Object {name: "QuantitativeScale", size: 4839}
+  6: 
+    
+  Object {name: "RootScale", size: 1756}
+  7: 
+    
+  Object {name: "Scale", size: 4268}
+  8: 
+    
+  Object {name: "ScaleType", size: 1821}
+  9: 
+    
+  Object {name: "TimeScale", size: 5833}
+]
+}
+  8: 
+    
+  Object {
+  name: "util"
+  children: 
+    
+  Array(19) [
+  0: 
+    
+  Object {name: "Arrays", size: 8258}
+  1: 
+    
+  Object {name: "Colors", size: 10001}
+  2: 
+    
+  Object {name: "Dates", size: 8217}
+  3: 
+    
+  Object {name: "Displays", size: 12555}
+  4: 
+    
+  Object {name: "Filter", size: 2324}
+  5: 
+    
+  Object {name: "Geometry", size: 10993}
+  6: 
+    
+  Object {name: "heap", children: Array(2)}
+  7: 
+    
+  Object {name: "IEvaluable", size: 335}
+  8: 
+    
+  Object {name: "IPredicate", size: 383}
+  9: 
+    
+  Object {name: "IValueProxy", size: 874}
+  10: 
+    
+  Object {name: "math", children: Array(3)}
+  11: 
+    
+  Object {name: "Maths", size: 17705}
+  12: 
+    
+  Object {name: "Orientation", size: 1486}
+  13: 
+    
+  Object {name: "palette", children: Array(4)}
+  14: 
+    
+  Object {name: "Property", size: 5559}
+  15: 
+    
+  Object {name: "Shapes", size: 19118}
+  16: 
+    
+  Object {name: "Sort", size: 6887}
+  17: 
+    
+  Object {name: "Stats", size: 6557}
+  18: 
+    
+  Object {name: "Strings", size: 22026}
+]
+}
+  9: 
+    
+  Object {
+  name: "vis"
+  children: 
+    
+  Array(7) [
+  0: 
+    
+  Object {name: "axis", children: Array(5)}
+  1: 
+    
+  Object {name: "controls", children: Array(11)}
+  2: 
+    
+  Object {name: "data", children: Array(9)}
+  3: 
+    
+  Object {name: "events", children: Array(4)}
+  4: 
+    
+  Object {name: "legend", children: Array(3)}
+  5: 
+    
+  Object {name: "operator", children: Array(11)}
+  6: 
+    
+  Object {name: "Visualization", size: 16540}
+]
+}
+]
+}

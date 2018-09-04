@@ -28,7 +28,7 @@
 
 </style>
 
-<svg width="3000" height="3000"></svg>
+<svg width="2300" height="2300"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="assets/d3-save-svg.min.js"></script>
 <script>
@@ -36,7 +36,6 @@
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height"),
-//    g = svg.append("g").attr("transform", "translate(" + (width / 2 + 40) + "," + (height / 2 + 90) + ")");
     g = svg.append("g").attr("transform", "translate(" + (width / 2) + "," + (height / 2) + ")");
 
 var stratify = d3.stratify()
@@ -73,7 +72,7 @@ d3.csv("tavoli_layers.csv", function(error, data) {
       .attr("x", function(d) { return d.x < Math.PI === !d.children ? 6 : -6; })
       .attr("text-anchor", function(d) { return d.x < Math.PI === !d.children ? "start" : "end"; })
       .attr("transform", function(d) { return "rotate(" + (d.x < Math.PI ? d.x - Math.PI / 2 : d.x + Math.PI / 2) * 180 / Math.PI + ")"; })
-      .text(function(d) { return d.id.substring(d.id.lastIndexOf(".") + 1); });
+      .text(function(d) { return decodeURI(d.id.substring(d.id.lastIndexOf(".") + 1)); });
 });
 
 function radialPoint(x, y) {
